@@ -1,0 +1,1 @@
+# karma-istanbul-reporter
